@@ -6,6 +6,13 @@ but, there are already exist fano signals. it is okay to ignore.
 
 the basic operation is AND between signal and mask. (this is for speed)
 
+Code description
+  - Signal.py : Maneging generating signal.
+  - Rotate.py : Managing about rotation and transposition matrix. 
+  - CoordinateSystem.py : Implement DH and Get coordinates
+  - Draw.py : Drawing and Generating Electonic Hand by using tkinter.
+
+
 here is simulating movies both fano and gray.
 
 fano normal link
