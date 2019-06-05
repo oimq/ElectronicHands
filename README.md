@@ -7,6 +7,7 @@ but, there are already exist fano signals. it is okay to ignore.
 the basic operation is AND between signal and mask. (this is for speed)
 
 here is simulating movies both fano and gray.
+
 fano normal link
 https://www.youtube.com/watch?v=YyfWB6O9XCI
 
